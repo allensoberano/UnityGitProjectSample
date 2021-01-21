@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-01-21T11:16:35.859-08:00
+  lastUpdatedAtString: 2021-01-21T11:31:31.533-08:00
   initializedAtString: 2021-01-21T11:00:50.395-08:00
   entries:
   - path: GitHubSample/Library/ArtifactDB
@@ -22,9 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GitHubSample/Library/Artifacts/27/27033c9962a95cd3e143d40890c68a39
-    fullPath: /Users/allen/UnityGitProjectSample/GitHubSample/Library/Artifacts/27/27033c9962a95cd3e143d40890c68a39
-    projectPath: Library/Artifacts/27/27033c9962a95cd3e143d40890c68a39
+  - path: GitHubSample/Library/Artifacts/fe/febb7cdb04cc0261aa03e1b905835c1c
+    fullPath: /Users/allen/UnityGitProjectSample/GitHubSample/Library/Artifacts/fe/febb7cdb04cc0261aa03e1b905835c1c
+    projectPath: Library/Artifacts/fe/febb7cdb04cc0261aa03e1b905835c1c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -58,9 +58,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: GitHubSample/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/allen/UnityGitProjectSample/GitHubSample/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitHubSample/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/allen/UnityGitProjectSample/GitHubSample/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: GitHubSample/Library/SourceAssetDB
     fullPath: /Users/allen/UnityGitProjectSample/GitHubSample/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: GitHubSample/Temp/UnityTempFile-a0773fba4f10444989187a9d77455f67
+    fullPath: /Users/allen/UnityGitProjectSample/GitHubSample/Temp/UnityTempFile-a0773fba4f10444989187a9d77455f67
+    projectPath: Temp/UnityTempFile-a0773fba4f10444989187a9d77455f67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
